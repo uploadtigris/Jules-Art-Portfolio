@@ -1,7 +1,7 @@
 # Jules-Art-Portfolio
 A self-hosted art portfolio website for my girlfriend :)
 
-## Jules Art Portfolio - Website Architecture
+## Website Architecture
 
 ### Tech Stack
 
@@ -27,6 +27,10 @@ Page 1 : Landing page
 
 - Vision Board (photos & links)
 -> ** Capturing the aesthetic of Jules ** 
+
+### Database Schema
+
+- { ENTER MORE HERE }
 
 ### File Hierarchy Setup
 ```
